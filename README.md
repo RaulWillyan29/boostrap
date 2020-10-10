@@ -1,2 +1,0 @@
-# boostrap
-utilizano o boostrap
